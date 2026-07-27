@@ -15,9 +15,9 @@
 
   OS ............... Windows 10
   Uptime ............ 23 years
-  Kernel ............ B.Tech Student
+  Kernel ............ B.Tech Engineering Student
   Shell ............. python3
-  Languages ......... Python, JavaScript, C++
+  Languages ......... Python, JavaScript, HTML, CSS, C++
   Hobbies ........... AI Engineering, Gaming, Robotics
   Contact ........... chaubeyshweta09@gmail.com
   Status ............ Building cool things 🚀
