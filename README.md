@@ -1,16 +1,44 @@
-## Hi there 👋
+╔══════════════════════════════════════════════════════════╗
+║                                                            ║
+║   ██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗║
+║   ██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝║
+║   ███████║██║       ██║   ███████║█████╗  ██████╔╝█████╗  ║
+║   ██╔══██║██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  ║
+║   ██║  ██║██║       ██║   ██║  ██║███████╗██║  ██║███████╗║
+║   ╚═╝  ╚═╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝║
+║                                                            ║
+╚══════════════════════════════════════════════════════════╝
 
-<!--
-**shwetaa09/shwetaa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+whoami --info
 
-Here are some ideas to get you started:
+  OS ..............  Windows
+  Uptime ...........  23 years
+  Kernel ...........  MirAI B.Tech Student
+  Shell ............  bash --student-mode
+  Languages ........  Python, JavaScript, C++
+  Hobbies ..........  AI Engineering, Gaming, Robotics
+  Contact ..........  chaubeyshweta09@gmail.com
+  Status ...........  Building cool things 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------
+  $ cat about_me.txt
+
+  Hey, I'm SHWETA CHAUBEY! A student passionate about AI and
+  software development. I love building projects, exploring
+  new technologies, and solving real-world problems with code.
+
+  Currently learning  : AI/ML, Full-Stack Development
+  Currently exploring  : Open Source Projects
+------------------------------------------------------------
+
+### 📊 GitHub Stats
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetaa09&show_icons=true&theme=radical)
+
+
+
+### 🔥 Streak Stats
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shwetaa09&theme=radical)
