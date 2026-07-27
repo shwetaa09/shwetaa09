@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=shwetaa09&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-text
+'''text
    _____ _                 _
   / ____| |               | |
  | (___ | |____      _____| |_ __ _
@@ -13,18 +13,20 @@ text
   ____) | | | \ V  V /  __/ || (_| |
  |_____/|_| |_|\_/\_/ \___|\__\__,_|
 
-  OS ............... Windows
+  OS ............... Windows 10 Pro
   Uptime ............ 23 years
-  Kernel ............ MirAI B.Tech Student
-  Shell ............. bash --student-mode
-  Languages ......... Python, JavaScript, C++
+  Kernel ............ B.Tech Engineering Student
+  Shell ............. python3
+  Editor ............ VS Code
+  Languages ......... Python, JavaScript, HTML, CSS, C++
   Hobbies ........... AI Engineering, Gaming, Robotics
-  Contact ........... chaubeyshweta09@gmail.com
+  Email ........... chaubeyshweta09@gmail.com
   Status ............ Building cool things 🚀
 
 
 ### 💻 About Me
 Hey, I'm Shweta! A B.Tech CS student passionate about AI and software development. I love building projects, exploring new technologies, and solving real-world problems with code.
+'''
 
 *Currently learning:* AI/ML, Full-Stack Development
 *Currently exploring:* Open Source Projects
@@ -39,9 +41,7 @@ Hey, I'm Shweta! A B.Tech CS student passionate about AI and software developmen
 
 ---
 
-### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetaa09&show_icons=true&theme=radical)
-
 ---
 
 ### 🌐 Let's Connect
