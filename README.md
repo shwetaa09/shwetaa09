@@ -13,11 +13,11 @@
   _) | | | \ V  V /  _/ || (_| |
  |__/|| ||\/\/ \_|\\,|
 
-  OS ............... Windows
+  OS ............... Windows 10
   Uptime ............ 23 years
-  Kernel ............ MirAI B.Tech Student
+  Kernel ............ B.Tech (CSE)
   Shell ............. bash --student-mode
-  Languages ......... Python, JavaScript, C++
+  Languages ......... Python, JavaScript, C++, HTML, CSS, SQL
   Hobbies ........... AI Engineering, Gaming, Robotics
   Contact ........... chaubeyshweta09@gmail.com
   Status ............ Building cool things 🚀
