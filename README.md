@@ -13,11 +13,11 @@
   _) | | | \ V  V /  _/ || (_| |
  |__/|| ||\/\/ \_|\\,|
 
-  OS ............... Windows 10
+  OS ............... Windows
   Uptime ............ 23 years
-  Kernel ............ B.Tech Engineering Student
-  Shell ............. python3
-  Languages ......... Python, JavaScript, HTML, CSS, C++
+  Kernel ............ MirAI B.Tech Student
+  Shell ............. bash --student-mode
+  Languages ......... Python, JavaScript, C++
   Hobbies ........... AI Engineering, Gaming, Robotics
   Contact ........... chaubeyshweta09@gmail.com
   Status ............ Building cool things 🚀
@@ -39,8 +39,21 @@ Hey, I'm Shweta! A B.Tech CS student passionate about AI and software developmen
 
 ---
 
+### 🚀 Project Showcase
+| Project | Description |
+|---|---|
+| 🖊️ [Handwritten-Recognition](https://github.com/shwetaa09/Handwritten-Recognition) | Draw digits (0-9) on canvas — ML model predicts instantly (99.4% accuracy) |
+| 🤖 [multiverse-chatbot](https://github.com/shwetaa09/multiverse-chatbot) | Multi-persona AI chatbot platform |
+| 🎨 [AI-Image-Studio](https://github.com/shwetaa09/AI-Image-Studio) | AI-powered image generation studio |
+| 🌐 [AI-Multiverse](https://github.com/shwetaa09/AI-Multiverse) | AI chatbot experimentation platform |
+
+---
+
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shwetaa09&show_icons=true&theme=radical)
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shwetaa09&theme=react-dark)
 
 ---
 
